@@ -63,6 +63,8 @@ llist.printMiddle()
 ```
 
 ## Sample Input & Output
+<img width="379" height="213" alt="image" src="https://github.com/user-attachments/assets/8614109b-cf08-4b23-b995-4ef194a4a4d6" />
+
 
 
 
